@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "ignored": "true",
+      "suggestion": "true",
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:DbCon"
+    },
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/server-furniture1/databases/furniture-db",
+      "type": "mssql.azure",
+      "connectionId": "DbCon"
+    }
+  }
+}

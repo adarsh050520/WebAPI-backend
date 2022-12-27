@@ -1,0 +1,77 @@
+﻿D:\project\API\WebAPI\Controllers\Adminlogin.cs
+D:\project\API\WebAPI\Controllers\BillsController.cs
+D:\project\API\WebAPI\Controllers\ProductsController.cs
+D:\project\API\WebAPI\Controllers\RemarksController.cs
+D:\project\API\WebAPI\Controllers\TransactionsController.cs
+D:\project\API\WebAPI\Controllers\UserInfoController.cs
+D:\project\API\WebAPI\Controllers\UserloginController.cs
+D:\project\API\WebAPI\Controllers\UserRegistrationController.cs
+D:\project\API\WebAPI\Controllers\ValuesController.cs
+D:\project\API\WebAPI\Controllers\WeatherForecastController.cs
+D:\project\API\WebAPI\Models\AdminInfo.cs
+D:\project\API\WebAPI\Models\Bills.cs
+D:\project\API\WebAPI\Models\IdentityCredentials.cs
+D:\project\API\WebAPI\Models\Products.cs
+D:\project\API\WebAPI\Models\Remarks.cs
+D:\project\API\WebAPI\Models\Transactions.cs
+D:\project\API\WebAPI\Models\UserContext.cs
+D:\project\API\WebAPI\Models\UserInfo.cs
+D:\project\API\WebAPI\Models\UserInfoLogin.cs
+D:\project\API\WebAPI\Program.cs
+D:\project\API\WebAPI\Startup.cs
+D:\project\API\WebAPI\WeatherForecast.cs
+D:\project\API\WebAPI\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+D:\project\API\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\project\API\WebAPI\appsettings.Development.json
+D:\project\API\WebAPI\appsettings.json
+D:\project\API\WebAPI\Properties\Resources.resx
+D:\project\API\WebAPI\Photos\1 seater sofa.png
+D:\project\API\WebAPI\Photos\AdminDashboard.PNG
+D:\project\API\WebAPI\Photos\anonymous.PNG
+D:\project\API\WebAPI\Photos\baby cot.jpg
+D:\project\API\WebAPI\Photos\bed 99.jpeg
+D:\project\API\WebAPI\Photos\Bed1.jpeg
+D:\project\API\WebAPI\Photos\Bed2.jpeg
+D:\project\API\WebAPI\Photos\Bed3.jpeg
+D:\project\API\WebAPI\Photos\Bent chair.jpg
+D:\project\API\WebAPI\Photos\C1.jpeg
+D:\project\API\WebAPI\Photos\c2.jpeg
+D:\project\API\WebAPI\Photos\c3.jpeg
+D:\project\API\WebAPI\Photos\Capture.PNG
+D:\project\API\WebAPI\Photos\Chair.jpeg
+D:\project\API\WebAPI\Photos\chair.jpg
+D:\project\API\WebAPI\Photos\Chair1.jpeg
+D:\project\API\WebAPI\Photos\Chair2.jpeg
+D:\project\API\WebAPI\Photos\chair3.jpeg
+D:\project\API\WebAPI\Photos\dining chair.jpg
+D:\project\API\WebAPI\Photos\dining Tables.webp
+D:\project\API\WebAPI\Photos\Dinning chair.jpg
+D:\project\API\WebAPI\Photos\folding cot.webp
+D:\project\API\WebAPI\Photos\L sofa.webp
+D:\project\API\WebAPI\Photos\ms1.jpeg
+D:\project\API\WebAPI\Photos\ms3.jpeg
+D:\project\API\WebAPI\Photos\Office Chair.webp
+D:\project\API\WebAPI\Photos\OIP.jpg
+D:\project\API\WebAPI\Photos\patrick.PNG
+D:\project\API\WebAPI\Photos\sandy.PNG
+D:\project\API\WebAPI\Photos\Screenshot (1).png
+D:\project\API\WebAPI\Photos\Screenshot (102).png
+D:\project\API\WebAPI\Photos\Sofa1.jpeg
+D:\project\API\WebAPI\Photos\sofa1.jpg
+D:\project\API\WebAPI\Photos\Sofa2.jpeg
+D:\project\API\WebAPI\Photos\Sofa3.jpeg
+D:\project\API\WebAPI\Photos\study table.jpg
+D:\project\API\WebAPI\Photos\table1.jpeg
+D:\project\API\WebAPI\Photos\Table2.jpeg
+D:\project\API\WebAPI\Photos\Table3.jpeg
+D:\project\API\WebAPI\Photos\thankticket.png
+D:\project\API\WebAPI\Photos\Wooden chair.jpg
+D:\project\API\WebAPI\Properties\launchSettings.json
+D:\project\API\WebAPI\Properties\serviceDependencies.EcommerceFurnitureBackend - Web Deploy.json
+D:\project\API\WebAPI\Properties\serviceDependencies.FurnitureBackendApp - Web Deploy.json
+D:\project\API\WebAPI\Properties\serviceDependencies.json
+D:\project\API\WebAPI\Properties\ServiceDependencies\EcommerceFurnitureBackend - Web Deploy\mssql1.arm.json
+D:\project\API\WebAPI\Properties\ServiceDependencies\EcommerceFurnitureBackend - Web Deploy\profile.arm.json
+D:\project\API\WebAPI\Properties\ServiceDependencies\FurnitureBackendApp - Web Deploy\mssql1.arm.json
+D:\project\API\WebAPI\Properties\ServiceDependencies\FurnitureBackendApp - Web Deploy\profile.arm.json
+D:\project\API\WebAPI\Properties\PublishProfiles\FurnitureBackendApp - Web Deploy.pubxml
